@@ -1,4 +1,4 @@
-# sveltekit with kitQl
+# sveltekit with kitql
 
 Implementation of 
 
